@@ -99,3 +99,26 @@
 .user {
   margin-bottom: 1.5%;
 }
+
+
+.reviews{
+    margin-top:40px;
+}
+
+.reviews h2{
+    font-size: 16px;
+    border-bottom: 1px #DDDDDD;
+}
+
+.reviews ul{
+    list-style: none;
+    display: none;
+}
+
+.reviews h3{
+    font-size: 14px;
+}
+
+.reviews p{
+    font-size: 12px;
+}
